@@ -29,10 +29,7 @@
 <br>
 
 <div>
-  <img src = "https://img.shields.io/badge/NVIDIA-GTX1050-76B900?style=flat&logo=nvidia&logoColor=white" align = "right">
   <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=RuiL1904&theme=dracula&show_icons=true">
-  <img src = "https://img.shields.io/badge/Intel-Core_i5_8th-0071C5?style=flat&logo=intel&logoColor=white" align = "right">
-  <img src = "https://img.shields.io/badge/Windows-HP OMEN 15-0078D6?style=flat&logo=windows&logoColor=white" align = "right">
 </div>
   
   ![](https://komarev.com/ghpvc/?username=RuiL1904s&color=006bed)
