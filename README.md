@@ -1,7 +1,7 @@
 <img src = "https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width = "400px" max-width = "400px" width = "400px" align = "right">
 
 <p align = "left"> 
-  <strong>Hi, I'm Rui! A programming enthusiast.</strong>
+  <strong>Hi, I'm Rui, a programming enthusiast.</strong>
   <br>
   <strong>In a near future I'll be studying <strong>Informatics Engineering</strong>.
 </p>
