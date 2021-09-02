@@ -1,9 +1,11 @@
 <img src = "https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width = "400px" max-width = "400px" width = "400px" align = "right">
 
 <p align = "left"> 
-  <strong>Hi, I'm Rui, a programming enthusiast.</strong>
+  <h1>:wave: Hi, I'm Rui.</h1>
   <br>
-  <strong>In a near future I'll be studying <strong>Informatics Engineering</strong>.
+  <strong>:computer: I'm a programming enthusiast.</strong>
+  <br>
+  <strong>:mortar_board: In a near future I'll be studying <strong>Informatics Engineering</strong>.
 </p>
 
 <p align = "left">
