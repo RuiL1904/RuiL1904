@@ -31,6 +31,3 @@
 <div>
   <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=RuiL1904&theme=dracula&show_icons=true">
 </div>
-  
-  ![](https://komarev.com/ghpvc/?username=RuiL1904s&color=006bed)
-  [![](https://img.shields.io/github/followers/RuiL1904.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/RuiL1904)
