@@ -3,7 +3,7 @@
   <br>
   :computer: I'm a programming enthusiast.
   <br>
-  :mortar_board: In a near future I'll be studying <strong>Informatics Engineering.
+  :mortar_board: Currently, I'm studying <strong>Informatics Engineering</strong> at University of Minho.
 </p>
 
 <p align = "left">
