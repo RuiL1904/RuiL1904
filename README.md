@@ -13,7 +13,7 @@
   ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=flat&logo=haskell&logoColor=white)
   ![HTML5](https://img.shields.io/badge/HTML-5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS-3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-  ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)
+  ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)
   
   Development tools
 
