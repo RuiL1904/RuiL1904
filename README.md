@@ -3,7 +3,7 @@
   <br>
   :computer: I'm a programming enthusiast.
   <br>
-  :mortar_board: Currently, I'm studying <strong>Software Engineering</strong> @ University of Minho.
+  :mortar_board: Currently, I'm studying <strong>Software Engineering</strong> @ <a href = "https://www.uminho.pt/PT">University of Minho.</a>
 </p>
 
 <p align = "left">
