@@ -14,3 +14,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+
+###
+![Profile Stats](https://github-readme-stats.vercel.app/api?username=ruil1904&count_private=true&theme=tokyonight&show_icons=true)
+![Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ruil1904&layout=compact&theme=tokyonight&langs_count=10)
