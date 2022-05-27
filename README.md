@@ -17,4 +17,4 @@
 
 ###
 ![Profile Stats](https://github-readme-stats.vercel.app/api?username=ruil1904&count_private=true&theme=tokyonight&show_icons=true)
-![Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ruil1904&layout=compact&theme=tokyonight&langs_count=10)
+![Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ruil1904&layout=compact&theme=tokyonight&langs_count=6)
