@@ -1,4 +1,4 @@
-<!--- # Hi, I'm Rui! 👋
+# Hi, I'm Rui! 👋
 
 ### Programming languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -18,6 +18,4 @@
 
 ###
 ![Profile Stats](https://github-readme-stats.vercel.app/api?username=ruil1904&count_private=true&theme=tokyonight&show_icons=true)
---->
-
 ![Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ruil1904&layout=compact&theme=tokyonight&langs_count=6)
